@@ -1,0 +1,14 @@
+{
+  "name": "otel-instrumentation-workshop",
+  "version": "1.0.0",
+  "description": "JavaScript source files for the Lightstep OpenTelemetry Instrumentation Workshop",
+  "main": "src/order-service.js",
+  "scripts": {
+    "order-service": "node src/order-service.js"
+  },
+  "author": "Mike Whalen",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.5.0"
+  }
+}
